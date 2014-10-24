@@ -1,0 +1,1 @@
+This is beginner project to start learning JQuery for simple use on future websites.
